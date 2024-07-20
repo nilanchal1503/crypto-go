@@ -1,4 +1,4 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+# Crypto-Go - Explore the World of Cryptocurrency
 
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
@@ -7,5 +7,5 @@
 ## Introduction
 
 
-we have created a cryptocurrency app,
+I've have created a cryptocurrency app,
 
